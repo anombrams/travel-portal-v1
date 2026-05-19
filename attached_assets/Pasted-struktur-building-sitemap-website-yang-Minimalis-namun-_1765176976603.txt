@@ -1,0 +1,98 @@
+struktur building (sitemap) website yang *Minimalis namun Fungsional*.
+
+Filosofi desainnya adalah *"Less Navigation, More Immersion"*. Kita menyembunyikan kompleksitas sistem "Otak Digital" di belakang layar, dan menyajikan antarmuka yang bersih, visual, dan mudah dipahami oleh turis Gen Z/Milenial.
+
+Struktur ini hanya memiliki *4 Menu Utama* di Navigation Bar (Navbar), menjaga tampilan tetap bersih.
+
+---
+
+### 🏗️ Struktur Website Minimalis: seapark.id
+
+#### *GLOBAL NAVIGATION BAR (Sticky/Melayang)*
+Hanya ada 4 teks + 1 Tombol Aksi:
+1.  *Jelajah* (Explore)
+2.  *Komunitas* (Community)
+3.  *Dampak* (Impact)
+4.  *Profil Saya* (Passport)
+5.  *[Tombol Bulat]: Beli Tiket* (Floating Action Button)
+
+---
+
+### 1. LANDING PAGE (Homepage)
+Halaman ini berfungsi sebagai "Teaser" visual. Tidak ada teks panjang.
+
+* *Hero Section (Full Screen):*
+    * Background: Video loop cinematic tanpa suara (Potongan "High Goals" video Banda/Raja Ampat).
+    * Teks Tengah: "Jelajahi Surga. Jaga Masa Depan."
+    * Search Bar Minimalis: "Mau ke mana bulan ini?" (Dropdown: Banda, Sawu, Raja Ampat, Gili Matra).
+* *The Live Ticker (Pita Berjalan di Bawah):*
+    * "Total PNBP Hari Ini: Rp 15.400.000 (Mendanai 3 Patroli di Laut Sawu)." [cite_start]— Bukti transparansi[cite: 33].
+* *Section "Spotlight":*
+    * 3 Kartu Cerita: "Guardian of the Month" (Profil Ibu Penjaga), "Best Shot by User", "Event Terdekat".
+
+---
+
+### 2. HALAMAN JELAJAH (Explore & Booking)
+Pengganti halaman "Produk". Menggabungkan info wisata dengan pembelian tiket.
+
+* *Interactive Map (3D Globe):*
+    * Pengguna memutar bola bumi untuk memilih lokasi:
+        * *TWP Laut Banda:* Klik masuk ke microsite Banda.
+            * [cite_start]Fitur: Slider "Time Travel" (Sejarah vs Alam)[cite: 3].
+            * Action: Beli Tiket Banda.
+        * *TNP Laut Sawu:* Klik masuk ke microsite Sawu.
+            * Fitur: Widget Audio "Cetacean Symphony" (Suara Paus).
+            * Action: Beli Tiket Sawu.
+        * *TWP Raja Ampat:* Klik masuk ke microsite Raja Ampat.
+            * [cite_start]Fitur: Widget "Scarcity Barometer" (Sisa Kuota Harian)[cite: 39].
+            * Action: Booking Slot Selam.
+        * *TWP Gili Matra:* Klik masuk ke microsite Gili.
+            * Fitur: Live Cam Penyu / Party Guide.
+            * Action: Beli Tiket Gili.
+
+---
+
+### 3. HALAMAN KOMUNITAS (Community Hub)
+Tempat interaksi pengguna (Social Features).
+
+* *Tab 1: Trip Buddy (Cari Teman):*
+    * Tampilan Card sederhana: "Siapa", "Ke Mana", "Kapan", "Budget".
+    * Filter: "Open Trip" atau "Share Cost".
+* *Tab 2: Sea-Log (Laporan Warga):*
+    * Feed bergaya Instagram berisi foto/laporan kondisi laut real-time dari user.
+    * Tombol: "Lapor Kondisi" (Upload foto + Lokasi).
+* *Tab 3: Academy & Event:*
+    * Kalender event konservasi & webinar.
+
+---
+
+### 4. HALAMAN DAMPAK (Our Impact)
+[cite_start]Visualisasi Data "Otak Digital"[cite: 19, 47].
+
+* *Dashboard Transparansi:*
+    * Visualisasi grafis aliran dana tiket -> menjadi bensin/bibit karang.
+* *Peta Adopsi Karang:*
+    * Peta digital yang menunjukkan titik-titik karang yang sudah diadopsi oleh pengguna.
+* *Laporan Riset Populer:*
+    * Ringkasan riset KKP yang disajikan dengan infografis sederhana (bukan jurnal tebal).
+
+---
+
+### 5. HALAMAN PROFIL (My Sea-Passport)
+Halaman akun pengguna yang digamifikasi.
+
+* *Header:* Foto Profil & Level (Contoh: "Level 3: Coral Guardian").
+* *Digital Passport Book:*
+    * Halaman yang bisa di-swipe berisi stempel digital dari lokasi yang sudah dikunjungi (Banda, Sawu, dll).
+* *Statistik Saya:*
+    * "Total Donasi Tiket: Rp 500.000"
+    * "Karang Diadopsi: 2"
+* *Dompet Tiket:* QR Code tiket aktif (untuk di-scan petugas di lapangan).
+
+---
+
+### 📱 Mobile Experience (Responsif)
+
+Karena targetnya Gen Z/Milenial, struktur ini harus *Mobile-First*:
+* *Bottom Navigation Bar (Di HP):* Menggantikan menu atas. Ikon: Kompas (Jelajah), Orang (Komunitas), Grafik (Dampak), Paspor (Profil).
+* *Tombol Beli (Floating):* Selalu melayang di tengah bawah layar jempol, memudahkan konversi instan.
